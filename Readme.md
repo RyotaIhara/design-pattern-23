@@ -1,0 +1,2 @@
+# PythonでGof 23のデザインパターンをまとめたRepository。
+
